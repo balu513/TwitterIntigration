@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/balakrishna/Desktop/Twitter-Sharing-Example-Android-master1/app/libs/twitter4j-core-4.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="381cf31e9200c2902782f17248d2af18e2ab4c56">
+        <dex dex="/home/balakrishna/Desktop/Twitter-Sharing-Example-Android-master1/app/build/intermediates/pre-dexed/debug/twitter4j-core-4.0.2-de86e5141251a724f0433696607e036866cd63fd.jar" />
+    </item>
+    <item
+        jar="/android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/balakrishna/Desktop/Twitter-Sharing-Example-Android-master1/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-8df1b4ff748a50b02155cbbbf263940bc5e7deaa.jar" />
+    </item>
+
+</items>
